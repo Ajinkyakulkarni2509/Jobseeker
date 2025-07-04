@@ -12,7 +12,7 @@ This project integrates powerful **machine learning** capabilities to summarize 
 - ✅ **Job Posting**: Employers can create, edit, and manage job listings with detailed descriptions and role-specific requirements.
 - ✅ **Interview Scheduling**: Schedule and manage interviews seamlessly with real-time notifications.
 - ✅ **Resume Summarization (ML)**: Integrated Python-based ML model summarizes resumes to improve recruiter efficiency.
-- ✅ **Real-Time Communication**: Uses WebSockets for instant alerts, status updates, and interview scheduling.
+
 
 ---
 
@@ -21,16 +21,8 @@ This project integrates powerful **machine learning** capabilities to summarize 
 - **Frontend**: React.js, Vite, Tailwind CSS, JavaScript, HTML
 - **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
 - **ML Model**: Python, Flask, NLP for resume summarization
-- **Others**: WebSockets (Socket.io), Git, GitHub, Heroku/Render deployment
 
----
 
-## 📁 Project Structure
-
--jobseeker/
--├── backend/ # Express server, APIs, MongoDB config
--├── frontend/ # React UI using Tailwind + Vite
--├── mlmodel/ # Flask-based ML microservice
 
 
 
