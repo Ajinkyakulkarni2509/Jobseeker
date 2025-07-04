@@ -27,10 +27,10 @@ This project integrates powerful **machine learning** capabilities to summarize 
 
 ## 📁 Project Structure
 
-jobseeker/
-├── backend/ # Express server, APIs, MongoDB config
-├── frontend/ # React UI using Tailwind + Vite
-├── mlmodel/ # Flask-based ML microservice
+-jobseeker/
+-├── backend/ # Express server, APIs, MongoDB config
+-├── frontend/ # React UI using Tailwind + Vite
+-├── mlmodel/ # Flask-based ML microservice
 
 
 
